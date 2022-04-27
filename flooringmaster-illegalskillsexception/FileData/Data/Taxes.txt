@@ -1,0 +1,50 @@
+AL,Alabama,25
+AK,Alaska,25
+AZ,Arizona,25
+AR,Arkansas,25
+CA,California,25
+CO,Colorado,25
+CT,Connecticut,25
+DE,Delaware,25
+FL,Florida,25
+GA,Georgia,25
+HI,Hawaii,25
+ID,Idaho,25
+IL,Illinois,25
+IN,Indiana,25
+IA,Iowa,25
+KS,Kansas,25
+KY,Kentucky,25
+LA,Louisiana,25
+ME,Maine,25
+MD,Maryland,25
+MA,Massachusetts,25
+MI,Michigan,25
+MN,Minnesota,25
+MS,Mississippi,25
+MO,Missouri,25
+MT,Montana,25
+NE,Nebraska,25
+NV,Nevada,25
+NH,New Hampshire,25
+NJ,New Jersey,25
+NM,New Mexico,25
+NY,New York,25
+NC,North Carolina,25
+ND,North Dakota,25
+OH,Ohio,25
+OK,Oklahoma,25
+OR,Oregon,25
+PA,Pennsylvania,25
+RI,Rhode Island,25
+SC,South Carolina,25
+SD,South Dakota,25
+TN,Tennessee,25
+TX,Texas,25
+UT,Utah,25
+VT,Vermont,25
+VA,Virginia,25
+WA,Washington,25
+WV,West Virginia,25
+WI,Wisconsin,25
+WY,Wyoming,25
